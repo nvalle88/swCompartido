@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bd.swcompartido.entidades",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bd.swcompartido.web", "bd.swcompartido.web\bd.swcompartido.web.csproj", "{11A0CFCE-B586-4636-8899-CA1F79761C29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bd.sw.externos", "bd.sw.externos\bd.sw.externos.csproj", "{79AFCA6F-FAFF-49E9-B37D-233F8B12C35D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{11A0CFCE-B586-4636-8899-CA1F79761C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11A0CFCE-B586-4636-8899-CA1F79761C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11A0CFCE-B586-4636-8899-CA1F79761C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AFCA6F-FAFF-49E9-B37D-233F8B12C35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AFCA6F-FAFF-49E9-B37D-233F8B12C35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AFCA6F-FAFF-49E9-B37D-233F8B12C35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AFCA6F-FAFF-49E9-B37D-233F8B12C35D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
